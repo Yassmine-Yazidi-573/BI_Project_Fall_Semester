@@ -13,7 +13,7 @@ A data-driven project focused on delivery performance analysis and business inte
 
 This repository includes the PDF report **"Your Package, Our Priority"**, which details the end-to-end data pipeline and analytics process used to study delivery performance in 2023.
 
-📥 [Click here to view the full PDF report](./Your_Package_Our_Priority_Report.pdf)
+📥 [Click here to view the full PDF report](./project_report_BI.pdf)
 
 ---
 
