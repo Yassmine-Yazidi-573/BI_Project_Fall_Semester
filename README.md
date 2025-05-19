@@ -64,12 +64,4 @@ Developed using **Power BI**, including:
 
 ---
 
-## 📬 Contact
-
-For questions or feedback, contact the team at:
-
-- yazidiyassmine38@gmail.com  
-- teyebdouaa.3.math@gmail.com  
-- bgt.jihane@gmail.com  
-- islem.smiai@gmail.com  
-- fhaallyosseer@gmail.com
+## Thank you!
